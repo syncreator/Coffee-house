@@ -481,7 +481,7 @@ color: #403F3D;
 .offer-screen{
   width: 630px;
   height: 630px;
-  background: url(../../img/mobile-screens.png) no-repeat;
+  background: url(../assets/img/mobile-screens.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
