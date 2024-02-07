@@ -69,7 +69,7 @@
         "add_price": "0.50"
       }
     ],
-    "img": "../assets/img/coffee-2.png"
+    "img": "./assets/img/coffee-2.png"
   },
   {
     "type": "coffee",
