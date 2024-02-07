@@ -14,7 +14,6 @@ const renderCart = (img, name, about, price) => {
       <p class="cart-info-name">${name}</p>
       <p class="cart-info-about">${about}</p>
     </div>
-    <span>$</span>
     <p class="cart-info-price"><span>$</span>${price}</p>
   </div>
   `
