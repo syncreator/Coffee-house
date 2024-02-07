@@ -14,8 +14,10 @@ const renderCart = (img, name, about, price) => {
       <p class="cart-info-name">${name}</p>
       <p class="cart-info-about">${about}</p>
     </div>
+    <div class="total-span">
     <span>$</span>
     <p class="cart-info-price">${price}</p>
+    </div>
   </div>
   `
   const saction = document.createElement('div');
